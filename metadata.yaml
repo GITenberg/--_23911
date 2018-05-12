@@ -1,0 +1,26 @@
+_repo: --_23911
+_version: 0.1.0
+alternative_title: Guo yu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zuoqiu, Ming
+    alias: 左丘明
+    gutenberg_agent_id: '26267'
+    url: http://www.gutenberg.org/2009/agents/26267
+description: ''
+gutenberg_issued: '2007-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23911'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- History -- Spring and Autumn period, 722-481 B.C.'
+- !lcc 'DS'
+title: 國語
+url: http://www.gutenberg.org/ebooks/23911
